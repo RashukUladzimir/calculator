@@ -12,7 +12,7 @@ if __name__ == '__main__':
         print(a / b)
     elif sign == '*':
         print(a * b)
-    elif sign == '//':
+    elif sign == '///':
         print(a // b)
     else:
         print('unknown operation')
