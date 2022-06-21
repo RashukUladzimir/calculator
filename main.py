@@ -1,7 +1,7 @@
 if __name__ == '__main__':
 
-    a = int(input('Input first number: '))
-    b = int(input('Input second number: '))
+    a = float(input('Input first number: '))
+    b = float(input('Input second number: '))
     sign = input('Input operation: ')
 
     if sign == '+':
