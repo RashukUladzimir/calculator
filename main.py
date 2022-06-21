@@ -8,8 +8,6 @@ if __name__ == '__main__':
         print(a + b)
     elif sign == '-':
         print(a - b)
-    elif sign == '/':
-        print(a / b)
     elif sign == '*':
         print(a * b)
     elif sign == '//':
