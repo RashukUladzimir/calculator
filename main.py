@@ -13,4 +13,4 @@ if __name__ == '__main__':
     elif sign == '//':
         print(a // b)
     else:
-        print('unknown operation')
+        print('Unknown operation')
